@@ -1,6 +1,6 @@
 /************************* NodeMCU Definitions ******************************/
 // PIN MAPPING
-// NodeMCU I/O labels matched to the GPIOs used in the Arduino ditigal pin functions.
+// NodeMCU pin labels matched to the GPIOs used in the Arduino ditigal pin functions.
 #define D0  16 // WAKE -- must be high at boot
 #define D1  5
 #define D2  4
