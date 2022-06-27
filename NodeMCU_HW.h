@@ -12,3 +12,18 @@
 #define D8  15 // CS -- must be low for boot
 #define RX  3
 #define TX  1  // Serial debug -- must be high for boot
+#define SD2 9
+#define SD3 10
+// Defines by secondary function
+#define RXD0   3
+#define TXD0   1
+#define TXD1   2
+#define RXD2   13
+#define TXD2   15
+#define FLASH  0 // Active low
+#define USER   16
+#define WAKE   16 // Active low
+#define HSCLK  14
+#define HMISO  12
+#define HMOSI  13
+#define HCS    15
